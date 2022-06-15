@@ -1,12 +1,14 @@
-## Hi there 👋
+# Welcome to Brain Drain Games!
 
-<!--
+Brain Drain Games is an independent game development studio located in Ho Chi Minh City, Vietnam. We specialize in educational game development and strive to bring enjoyment to any digital education experience.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Useful Links:
+
+https://www.braindraingames.com **Currently offline!**
+
+## Business Contacts:
+
+admin@braindraingames.com **(Web Support Comms)**
+info@braindraingames.com **(Client Comms/Sales)**
+support@braindraingames.com **(App/Game Support)**
