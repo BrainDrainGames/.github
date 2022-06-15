@@ -9,6 +9,6 @@ https://www.braindraingames.com **Currently offline!**
 
 ## Business Contacts:
 
-admin@braindraingames.com **(Web Support Comms)**
-info@braindraingames.com **(Client Comms/Sales)**
-support@braindraingames.com **(App/Game Support)**
+admin@braindraingames.com **(Web Support Comms)**  
+info@braindraingames.com **(Client Comms/Sales)**  
+support@braindraingames.com **(App/Game Support)**  
