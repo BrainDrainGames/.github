@@ -5,10 +5,9 @@ Brain Drain Games is an independent game development studio located in Ho Chi Mi
 
 # Useful Links:
 
-https://www.braindraingames.com **Currently offline!**
+https://www.braindraingames.com **Coming Soon!**
 
 ## Business Contacts:
 
-admin@braindraingames.com **(Web Support Comms)**  
+admin@braindraingames.com **(Support Comms)**  
 info@braindraingames.com **(Client Comms/Sales)**  
-support@braindraingames.com **(App/Game Support)**  
